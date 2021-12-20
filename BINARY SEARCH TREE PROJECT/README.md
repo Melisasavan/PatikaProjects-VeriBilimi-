@@ -9,9 +9,9 @@ Root=5 olsun.
 
 Root'tan büyük değerden root'un sağına, küçük değerler soluna yazılır.
 
-		     5
+		 5
 
-		    / \
+		/ \
 
 	      3     7
 
